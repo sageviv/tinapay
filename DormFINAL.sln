@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DormFINAL", "DormFINAL\DormFINAL.csproj", "{A9A44ED7-6C33-4009-B470-DE00B9ADF06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A44ED7-6C33-4009-B470-DE00B9ADF06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A44ED7-6C33-4009-B470-DE00B9ADF06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A44ED7-6C33-4009-B470-DE00B9ADF06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A44ED7-6C33-4009-B470-DE00B9ADF06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9B13D4-4E65-48A0-97D8-D4E3543F1A6D}
+	EndGlobalSection
+EndGlobal

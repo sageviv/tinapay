@@ -1,0 +1,11 @@
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\bin\Debug\DormFINAL.exe.config
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\bin\Debug\DormFINAL.exe
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\bin\Debug\DormFINAL.pdb
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.csproj.AssemblyReference.cache
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.Form1.resources
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.Properties.Resources.resources
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.csproj.GenerateResource.cache
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.csproj.CoreCompileInputs.cache
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.exe
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.pdb
+C:\Users\ANGELA\source\repos\DormFINAL\DormFINAL\obj\Debug\DormFINAL.Form2.resources
